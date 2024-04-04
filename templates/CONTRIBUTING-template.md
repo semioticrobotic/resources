@@ -6,7 +6,7 @@ Maintainers encourage anyone to improve the project by contributing to its devel
 ## Core team
 The following individuals serve as [core team](https://patterns.innersourcecommons.org/p/core-team) members on this project. 
 
-<! -- Use this table to present the project's core team/maintainers, along with contact details. -->
+<!-- Use this table to present the project's core team/maintainers, along with contact details. -->
 
 | Name | Email/Chat | GitHub |
 | ---- | ---------- | ------ |
