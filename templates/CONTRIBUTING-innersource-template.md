@@ -1,15 +1,17 @@
 # Contributing to PROJECT-NAME
+<!-- Use this template as the basis for an InnerSource project's CONTRIBUTING.md file. To get started, find and replace all instances of `PROJECT-NAME` with your project's name. -->
 
 PROJECT-NAME operates as an InnerSource project.
 Maintainers encourage anyone to improve the project by contributing to its development.
 
 ## Core team
-The following individuals serve as [core team](https://patterns.innersourcecommons.org/p/core-team) members on this project. 
+The following individuals serve as [core team](https://patterns.innersourcecommons.org/p/core-team) members on this project.
 
 <!-- Use this table to present the project's core team/maintainers, along with contact details. -->
 
-| Name | Email/Chat | GitHub |
-| ---- | ---------- | ------ |
+| Name | Email address | GitHub handle |
+| ---- | ------------- | ------------- |
+| -- | -- | -- |
 | -- | -- | -- |
 | -- | -- | -- |
 
